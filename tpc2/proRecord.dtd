@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT projectrecord (label,header,workteam,abstract,deliverables) >
+<!ELEMENT label (#PCDATA)>
+
+<!ELEMENT header (key_name, title, subtitle?, bdate,edate,supervisor) >
+<!ELEMENT key_name (#PCDATA) >
+<!ELEMENT title (#PCDATA) >
+<!ELEMENT subtitle (#PCDATA) >
+<!ELEMENT bdate (#PCDATA) >
+<!ELEMENT edate (#PCDATA) >
+<!ELEMENT supervisor (links) >
+
+<!ELEMENT workteam (label,member*) >
+<!ELEMENT member (student, number, email) >
+<!ELEMENT student (#PCDATA) >
+<!ELEMENT number (#PCDATA) >
+<!ELEMENT email (#PCDATA) >
+
+<!ELEMENT abstract (label,paragraph*) >
+<!ELEMENT paragraph (#PCDATA) >
+
+<!ELEMENT deliverables (label,links*) >
+        
+<!ELEMENT links (#PCDATA) >
+<!ATTLIST links
+             href CDATA #REQUIRED>
+

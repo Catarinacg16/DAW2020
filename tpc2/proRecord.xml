@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectrecord>
+    <label> Project Record</label>
+    <header>
+        <key_name> Project_Record_TPC2 </key_name>
+        <title> Linguagens de Anotação</title>
+        <subtitle> DTDs </subtitle>
+        <bdate> 21/10/2020 </bdate>
+        <edate> 28/10/2020 </edate>
+        <supervisor>
+            <links href="http://www.di.uminho.pt/~jcr">José Carlos Ramalho</links>
+        </supervisor>
+    </header>
+    <workteam>
+        <label> Workteam:</label>
+        <member>
+            <student>Ana Catarina Cardoso Gil</student>
+            <number>a85266</number>
+            <email>a85266@alunos.uminho.pt</email>
+        </member>
+    </workteam>
+    <abstract>
+        <label> Abstract:</label>
+        <paragraph>
+            Este Project Record foi desenvolvido como trabalho de casa da cadeira de DAW.
+        </paragraph>
+        <paragraph>
+            O mesmo consistiu na criação de um ficheiro DTD, bem como um ficheiro XML.
+        </paragraph> 
+    </abstract>
+    <deliverables>
+        <label> Deliverables: </label>
+        <links href="proRecord.dtd">Project Record (DTD)</links>
+        <links href="proRecord.xml">Project Record (XML)</links>
+    </deliverables>
+</projectrecord>
