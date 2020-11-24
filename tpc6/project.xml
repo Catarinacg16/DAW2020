@@ -1,0 +1,33 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<pr>
+    <meta>
+        <key>TPC 6</key>
+        <title>Project Record 6</title>
+        <subtitulo>Criação de um servidor toDo List</subtitulo>
+        <bdate>18/11/2020</bdate>
+        <endate>25/11/2020</endate>
+        <supervisor>
+            <link href="http://www.di.uminho.pt/~jcr">José Carlos Ramalho</link>
+        </supervisor>
+    </meta>
+    <team>
+        <member>
+            <name>Ana Catarina Cardoso Gil</name>
+            <email>a85266@alunos.uminho.pt</email>
+        </member>
+    </team>
+    <abstract>
+       <p> 
+           Este projeto consiste na criação de um servidor usando a ferramenta Node.js para a gestão de tarefas.
+           Permite a visualização de tarfeas ativas e de um histórico de tarefas, podendo ser adicioandas novas tarefas, editar existentes e remover as cumpridas.
+       </p>
+    </abstract>
+    <deliverables>
+        <link href="project.xml">Project Record (XML)</link>
+        <link href="server.js">Servidor (JS)</link>
+        <link href="static.js">Auxiliar (JS)</link>
+        <link href="db.json"> Tarefas (JSON)</link>
+        
+    </deliverables>
+</pr>

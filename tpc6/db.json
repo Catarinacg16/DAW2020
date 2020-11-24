@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Ir ás compras",
+      "descricao": "Comprar Leite e pao",
+      "creation_date": "2020-11-21T18:03",
+      "due_date": "2020-11-30T16:55",
+      "done": "true"
+    },
+    {
+      "id": 2,
+      "title": "Jantar com os amigos",
+      "descricao": "Jantar na Taberna bELGA",
+      "creation_date": "2020-11-23T14:29",
+      "due_date": "2020-11-25T16:55",
+      "done": "true"
+    },
+    {
+      "id": 3,
+      "title": "Pagar as contas",
+      "description": "Contas da luz, água,...",
+      "creation_date": "2020-11-21T16:55",
+      "due_date": "2020-11-30T16:55",
+      "done": "false"
+    },
+    {
+      "id": 4,
+      "title": "Consulta médica",
+      "description": "Consulta de neurologia no Hospital da Trofa",
+      "creation_date": "2020-11-24T02:56",
+      "due_date": "2020-11-30-T10-00",
+      "done": "false"
+    }
+  ]
+}
