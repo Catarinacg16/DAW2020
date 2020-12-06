@@ -1,0 +1,23 @@
+[
+    {
+        "date": "2020-12-03T13:28",
+        "name": "bugs-bunny.jpg",
+        "desc": "Bugs Bunny",
+        "size": 67755,
+        "mimetype": "image/jpeg"
+    },
+    {
+        "date": "2020-12-06T16:02",
+        "name": "porky-pig.jpg",
+        "mimetype": "image/jpeg",
+        "size": 103832,
+        "desc": "pig"
+    },
+    {
+        "date": "2020-12-06T16:02",
+        "name": "sylvester.png",
+        "mimetype": "image/png",
+        "size": 240557,
+        "desc": "cat"
+    }
+]

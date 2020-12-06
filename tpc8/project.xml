@@ -1,0 +1,30 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<pr>
+    <meta>
+        <key>TPC 8</key>
+        <title>Project Record 8</title>
+        <subtitulo><Gestão de ficheiros</subtitulo>
+        <bdate>25/11/2020</bdate>
+        <endate>09/11/2020</endate>
+        <supervisor>
+            <link href="http://www.di.uminho.pt/~jcr">José Carlos Ramalho</link>
+        </supervisor>
+    </meta>
+    <team>
+        <member>
+            <name>Ana Catarina Cardoso Gil</name>
+            <email>a85266@alunos.uminho.pt</email>
+        </member>
+    </team>
+    <abstract>
+       <p> Este tcp tem como objetivo desenvolver uma aplicação de gestão de ficheiros, permitindo ações de consulta, upload e download dos mesmos.</p>
+	
+    </abstract>
+    <deliverables>
+      	<link url="./project.xml">Project Record TPC7 (XML)</link>
+	<link url=".upload/dbFiles.json">Project metadata</link>
+	<link url=".upload/html-templates.js">Project templates</link>
+	<link url=".upload/server.js">Project server</link>
+    </deliverables>
+</pr>
