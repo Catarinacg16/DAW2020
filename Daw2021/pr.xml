@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pr>
+    <meta>
+        <key>DAW</key>
+        <title>Teste de Desenvolvimento de Aplicações Web</title>
+        <bdate>20-01-2021</bdate>
+        <edate>20-01-2021</edate>
+        <supervisor url="http://www4.di.uminho.pt/~jcr/"> José Carlos Ramalho</supervisor>
+    </meta>
+    <workteam>
+        <worker num="A85266">
+            <name>Ana Catarina Cardoso Gil</name>
+            <email>a85266@alunos.uminho.pt</email>
+        </worker>
+    </workteam>
+    <abstract>
+        <p>
+           Teste de Daw 2021
+        </p>
+
+    </abstract>
+    <deliverables>
+            <link url="../ex1"> exercício 1</link>
+            <link url="../ex2">exercício 2</link>
+            <link url="pr.xml">pr.xml</link>
+    </deliverables>
+</pr>

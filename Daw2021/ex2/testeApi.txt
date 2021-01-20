@@ -1,0 +1,25 @@
+1. Quantos processos (nível 3) e quais são (obtem uma lista em JSON; podes concatenar sublistas invocando várias queries), pertencentes à descendência da classe 900?
+  Resposta: 2 processos
+   [
+    {
+        "codigo": "900.10",
+        "titulo": "Execução de atividades de dinamização da sociedade",
+        "id": "http://jcr.di.uminho.pt/m51-clav#c900.10",
+        "status": "A"
+    },
+    {
+        "codigo": "900.20",
+        "titulo": "Execução de atividades de protocolo e comunicação institucional",
+        "id": "http://jcr.di.uminho.pt/m51-clav#c900.20",
+        "status": "A"
+    }
+]
+
+2. Quantas entidades estão catalogadas?
+    637
+
+3.  Quantos processos (classes de nível 3) se encontram na descendência de 900.10?
+   8
+
+4.  Quantos processos (classes de nível 3) estão relacionados com 900.10.505?
+    5

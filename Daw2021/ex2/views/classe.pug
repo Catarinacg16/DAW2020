@@ -1,0 +1,15 @@
+extends layout
+
+block content
+  h1 CLAV
+  h3 Processos nível 1
+  .cont
+    ul 
+      each cl in classes
+        li
+          a(href="http://localhost:3000/classes/" + cl.codigo)= cl.codigo
+
+          span= " - " + cl.titulo
+
+    footer.w3-container.w3-orange.w3-margin-top 
+        a(href="/") Back to Home Page 

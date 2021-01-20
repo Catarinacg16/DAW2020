@@ -1,0 +1,17 @@
+1. Resolver erros do dataset casamentos.json
+
+        Find and replace:
+                Find : ([a-z]*): "
+                Replace: "$1": "
+        
+      
+
+
+2. Acrescentar um campo _id e colocar lá como conteúdo a ref mas substituindo as '/' por '_'
+   Acrescentar campos mae e pai
+
+        Foi criado um script addID.js -> executar com o comando: node addID.js
+
+3. Criar uma BD em MongoDB para onde importarás o conteúdo do ficheiro JSON disponibilizado
+
+mongoimport -d testeDAW -c batismos --file new_batismos.json --jsonArray
